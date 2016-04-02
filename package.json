@@ -1,0 +1,57 @@
+{
+  "name": "dev-runner",
+  "description": "The most interesting project in the world > Verb",
+  "version": "0.1.0",
+  "homepage": "https://github.com/doowb/dev-runner",
+  "author": "Brian Woodward (https://github.com/doowb)",
+  "repository": "doowb/dev-runner",
+  "bugs": {
+    "url": "https://github.com/doowb/dev-runner/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "cli.js"
+  ],
+  "main": "cli.js",
+  "bin": {
+    "dev": "./cli.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "data-store": "^0.15.5",
+    "pkg-store": "^0.2.1",
+    "spawn-commands": "^0.3.1"
+  },
+  "devDependencies": {},
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "reflinks": {},
+    "related": {
+      "list": []
+    }
+  },
+  "keywords": [
+    "app",
+    "apps",
+    "bin",
+    "dev",
+    "global apps",
+    "link",
+    "run global"
+    "run app"
+    "run"
+  ]
+}

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var store = require('data-store')('dev-runner');
+var store = require('data-store')('dev-link');
 var spawn = require('spawn-commands');
 var pkgStore = require('pkg-store');
 var path = require('path');

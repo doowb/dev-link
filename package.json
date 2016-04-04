@@ -27,20 +27,25 @@
     "pkg-store": "^0.2.1",
     "spawn-commands": "^0.3.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp-format-md": "^0.1.7"
+  },
   "verb": {
     "run": true,
     "toc": false,
-    "layout": "default",
+    "layout": "global",
     "tasks": [
       "readme"
     ],
     "plugins": [
       "gulp-format-md"
     ],
-    "reflinks": {},
-    "related": {
-      "list": []
+    "reflinks": [
+      "verb",
+      "assemble"
+    ],
+    "lint": {
+      "reflinks": true
     }
   },
   "keywords": [
@@ -50,8 +55,8 @@
     "dev",
     "global apps",
     "link",
-    "run global"
-    "run app"
+    "run global",
+    "run app",
     "run"
   ]
 }

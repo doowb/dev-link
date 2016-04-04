@@ -1,6 +1,6 @@
 # dev-runner [![NPM version](https://img.shields.io/npm/v/dev-runner.svg)](https://www.npmjs.com/package/dev-runner) [![Build Status](https://img.shields.io/travis/doowb/dev-runner.svg)](https://travis-ci.org/doowb/dev-runner)
 
-> The most interesting project in the world > Verb
+> Run development versions of command line applications.
 
 ## Install
 

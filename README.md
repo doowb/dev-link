@@ -1,13 +1,13 @@
-# dev-runner [![NPM version](https://img.shields.io/npm/v/dev-runner.svg)](https://www.npmjs.com/package/dev-runner) [![Build Status](https://img.shields.io/travis/doowb/dev-runner.svg)](https://travis-ci.org/doowb/dev-runner)
+# dev-link [![NPM version](https://img.shields.io/npm/v/dev-link.svg)](https://www.npmjs.com/package/dev-link) [![Build Status](https://img.shields.io/travis/doowb/dev-link.svg)](https://travis-ci.org/doowb/dev-link)
 
-> Run development versions of command line applications.
+> Link and run development versions of command line applications.
 
 ## Install
 
 Install globally with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm install -g dev-runner
+$ npm install -g dev-link
 ```
 
 ## Usage
@@ -54,7 +54,7 @@ $ npm install -d && npm test
 
 ## Contributing
 
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/doowb/dev-runner/issues/new).
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/doowb/dev-link/issues/new).
 
 ## Author
 
@@ -66,7 +66,7 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 ## License
 
 verb © 2016, [Brian Woodward](https://github.com/doowb).
-Released under the [MIT license](https://github.com/doowb/dev-runner/blob/master/LICENSE).
+Released under the [MIT license](https://github.com/doowb/dev-link/blob/master/LICENSE).
 
 ***
 

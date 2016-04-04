@@ -1,6 +1,6 @@
 {
   "name": "dev-runner",
-  "description": "The most interesting project in the world > Verb",
+  "description": "Run development versions of command line applications.",
   "version": "0.1.0",
   "homepage": "https://github.com/doowb/dev-runner",
   "author": "Brian Woodward (https://github.com/doowb)",
